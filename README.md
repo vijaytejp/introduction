@@ -1,5 +1,5 @@
 # introduction
 ## VIJAY TEJ P
-<![profile picture]<https://github.com/vijaytejp/introduction/assets/144493074/66a766ba-2f2d-41cf-8649-4588576b91f9" width ="100" height ="100" >
+![profile picture](https://github.com/vijaytejp/introduction/assets/144493074/6468469e-2f32-4354-902f-dc03dbaf3867)
 
 ##GIT HUB: https://github.com/vijaytejp
